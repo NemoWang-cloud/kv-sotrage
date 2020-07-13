@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+/target
+
+my-kv/.idea
+
+*.iml
+
+/rocksDB-raft
+
+.idea
+
+target/
